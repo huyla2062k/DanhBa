@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DanhBa</string>
+    <string name="input_name">Input Name</string>
+    <string name="input_number">Input Number</string>
+    <string name="di_dong">di dong</string>
+    <string name="add">ADD</string>
+    <string name="nha">nha</string>
+    <string name="nam">nam</string>
+    <string name="nu">nu</string>
+</resources>
